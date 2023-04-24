@@ -12,7 +12,9 @@ public class Main {
 		/* BufferedReader 속도는 빠르나 Scanner 클래스에 비해 사용이 힘듬 
 		 * throws IOException 필수!
 		 * nextToken() 으로 읽을 때 String으로만 받을 수 있음
-		 * StringToeknizer*/
+		 * StringToeknizer*
+		 * 
+		 * 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 */
 		String word = st.nextToken();
 		
 		word = word.toUpperCase();
