@@ -9,7 +9,7 @@ public class Main {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine());
 		
-		/* BufferedReader 속도는 빠르나 Scanner 클래스에 비해 사용이 힘듬 a
+		/* BufferedReader 속도는 빠르나 Scanner 클래스에 비해 사용이 힘듬
 		 * throws IOException 필수!
 		 * nextToken() 으로 읽을 때 String으로만 받을 수 있음
 		 * StringToeknizer*
